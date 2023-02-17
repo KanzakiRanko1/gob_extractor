@@ -28,5 +28,3 @@ python gob_extractor.py -g
 This reads your current directory recursively, creates a folder called `extracted_files` in your current directory, a subfolder for each .gob file found and unpacks them there.
 
 Recommended usage for Batch mode would be opening your terminal in the game folder and running `python <FULL_PATH_TO_GOB_EXTRACTOR> -g`. Copying the .gob files to your Gob Extractor folder will also work but might lead to making a messy directory.
-
-## License
